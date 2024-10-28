@@ -29,8 +29,8 @@ function AboutSection() {
         <div className="about-details-container">
           <div className="text-container">
             <p>
-              Abigail is currently a freshman at Cornell University as a computer science major. She is a member of the Girl Scout Cadet 
-              Committe for the Cornell Chapter of the <strong className='bold'> Society of Women Engineers(SWE) </strong>. She is also a developer in the WebDev club at Cornell.
+              Abigail is currently a sophomore at Cornell University as a computer science major. She is a member of the Outreach
+              Committe for the Cornell Chapter of the <strong className='bold'> Society of Women Engineers(SWE) </strong>. She is also a developer for Women at Computing at Cornell.
               Abigail has experience in both web and iOS development. She is proficient in <strong className='bold'>Javascript, HTML/CS, Swift, Java, and Python</strong>. Further she is skilled 
               in the following frameworks: <strong className='bold'> React, Node.js, Bootstrap, and Google Firebase </strong>.  
             </p>
