@@ -32,7 +32,7 @@ function AboutSection() {
               Abigail is currently a junior at Cornell University in the College of Engineering. She is majoring in Computer Science with a minor in Artificial Intelligence.
               Abigail is passionate about leveraging AI to support education and drive social good. She is an Undergraduate Researcher at the Cornell Future of Learning Lab. There, she designs robust evaluation 
               frameworks for AI Simulated Humans in education applications. She is on the Outreach Committe for the Cornell Chapter of the Society of Women Engineers(SWE) where she organizes STEM events for Girl Scout Cadette Troops. She is also the 
-              Webmaster of Cornell SWE. Abigail has experience in AI and NLP(knowedge graphs, semantic reaosning, LLMs), Research and, FullStack Development.  
+              Webmaster of Cornell SWE. Abigail has experience in AI and NLP(knowedge graphs, semantic reaosning, LLMs, etc.), Research, and FullStack Development.  
             </p>
           </div>
         </div>
