@@ -24,7 +24,7 @@ export const projects: Project[] = [
     name: "MentorMD",
     description:
       "AI Attending Physican that coaches medical students through developing a clinically sound clinical case presentation in preperation for clinical rotations.",
-    image: "images/mentorMD.png",
+    image: "images/MentorMD.png",
     github: "https://github.com/AbigailJoseph/Kaggle-MedGemma",
     demo: "https://www.canva.com/design/DAHCR6Oa0J8/3RYTGyvRdFolZMhJS5lylg/watch?utm_content=DAHCR6Oa0J8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb2c2b3a7ae",
     skills: ["MedGemma", "GPT-4o-mini", "FastAPI", "PostgreSQL"],
