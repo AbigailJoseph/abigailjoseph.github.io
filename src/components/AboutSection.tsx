@@ -21,9 +21,9 @@ export default function AboutSection() {
 
         {/* Photo placeholder */}
         <div className="flex-shrink-0">
-          <div className="w-64 h-64 md:w-96 md:h-96 rounded-full border-4 border-[#7f2650]/20 overflow-hidden">
+          <div className="w-64 h-64 md:w-96 md:h-96 rounded-full border-4 border-[#7f2650]/72 overflow-hidden">
             <Image
-              src="/AbigailHeadshotcropped.jpg"
+              src="/images/AbigailHeadshotcropped.jpg"
               alt="Abigail"
               width={256}
               height={256}
