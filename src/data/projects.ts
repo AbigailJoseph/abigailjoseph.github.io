@@ -33,10 +33,10 @@ export const projects: Project[] = [
     id: 3,
     name: "Mobile Pricing Analytics",
     description:
-      "A real-time analytics dashboard visualizing sensor data streams with customizable charts and alerting.",
-    image: null,
-    github: "https://github.com",
-    demo: "https://example.com",
+      "A machine learning web application that predicts the price category of a mobile phone based on its technical specifications.",
+    image: "images/mobile.jpg",
+    github: "https://github.com/AbigailJoseph/MobilePricingPredictiveAnalytics",
+    demo: "https://streamlitfrontend-ul8y.onrender.com",
     skills: ["Python", "SQL", " Pandas/NumPy", "scikit-learn"],
   },
   {
@@ -45,7 +45,7 @@ export const projects: Project[] = [
     description:
       "Collaborative habit tracker mobile iOS app. Available on the Apple App store.",
     image: "/images/cogo2.jpg",
-    github: "private-git",
+    github: null,
     demo: "https://apps.apple.com/us/app/cogo-group-habit-tracker/id1631623887",
     skills: ["Swift", "Firebase"],
   },
@@ -55,7 +55,7 @@ export const projects: Project[] = [
     description:
       "News agrregator website built with React and Firebase",
     image: "/images/infostream.jpg",
-    github: "https://github.com/AbigailJoseph/InfoStream-v2",
+    github: null,
     demo: "https://www.youtube.com/watch?v=BGvSkE0tjrQ",
     skills: ["React", "Firebase"],
   },
